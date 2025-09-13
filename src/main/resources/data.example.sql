@@ -1,0 +1,7 @@
+--INSERT INTO users (ID, NAME, EMAIL, ROLE)
+--VALUES
+--(1, 'Diana Prince', 'diana.prince@example.com', 'Admin'),
+--(2, 'Ethan Hunt', 'ethan.hunt@example.com', 'User'),
+--(3, 'Fiona Gallagher', 'fiona.gallagher@example.com', 'Moderator'),
+--(4, 'George Miller', 'george.miller@example.com', 'User'),
+--(5, 'Hannah Lee', 'hannah.lee@example.com', 'Admin');
